@@ -281,7 +281,6 @@ main .card {
 
 main .card:hover {
     border: 1px solid rgba(255, 255, 255, 0.308);
-    transform: scale(1.01);
 }
 
 main .card-img {
